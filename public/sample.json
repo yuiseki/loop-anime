@@ -1,0 +1,173 @@
+{
+    "canvasWidth": 4096,
+    "canvasHeight": 4096,
+    "layerCount": 2,
+    "baseCanvasWidth": 1920,
+    "baseCanvasHeight": 1080,
+    "textures": [
+        {
+            "imageCount": 1,
+            "imageUrls": ["https://i.gyazo.com/1479c36870638eaad3e0f2a0bb9f7a53.png"]
+        }
+    ],
+    "layers": [
+        {
+            "fileName": "",
+            "imageType": "Texture",
+            "id": "layer_1",
+            "animationId":"",
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1080,
+            "basePositionX": 0,
+            "basePositionY": 0,
+            "zIndex": 0
+        },
+        {
+            "fileName": "",
+            "imageType": "Sprite",
+            "id": "s_01",
+            "animationId":"anim01",
+            "x": 0,
+            "y": 1080,
+            "width": 408,
+            "height": 336,
+            "basePositionX": 415,
+            "basePositionY": 563,
+            "zIndex": 1
+        },
+        {
+            "fileName": "",
+            "imageType": "Sprite",
+            "id": "s_02",
+            "animationId":"anim01",
+            "x": 408,
+            "y": 1080,
+            "width": 408,
+            "height": 336,
+            "basePositionX": 415,
+            "basePositionY": 563,
+            "zIndex": 1
+        },
+        {
+            "fileName": "",
+            "imageType": "Sprite",
+            "id": "s_03",
+            "animationId":"anim01",
+            "x": 816,
+            "y": 1080,
+            "width": 408,
+            "height": 336,
+            "basePositionX": 415,
+            "basePositionY": 563,
+            "zIndex": 1
+        },
+        {
+            "fileName": "",
+            "imageType": "Sprite",
+            "id": "s_04",
+            "animationId":"anim01",
+            "x": 1224,
+            "y": 1080,
+            "width": 408,
+            "height": 336,
+            "basePositionX": 415,
+            "basePositionY": 563,
+            "zIndex": 1
+        },
+        {
+            "fileName": "",
+            "imageType": "Sprite",
+            "id": "s_05",
+            "animationId":"anim01",
+            "x": 1632,
+            "y": 1080,
+            "width": 408,
+            "height": 336,
+            "basePositionX": 415,
+            "basePositionY": 563,
+            "zIndex": 1
+        },
+        {
+            "fileName": "",
+            "imageType": "Sprite",
+            "id": "s_06",
+            "animationId":"anim01",
+            "x": 0,
+            "y": 1416,
+            "width": 408,
+            "height": 336,
+            "basePositionX": 415,
+            "basePositionY": 563,
+            "zIndex": 1
+        },
+        {
+            "fileName": "",
+            "imageType": "Sprite",
+            "id": "s_07",
+            "animationId":"anim01",
+            "x": 408,
+            "y": 1416,
+            "width": 408,
+            "height": 336,
+            "basePositionX": 415,
+            "basePositionY": 563,
+            "zIndex": 1
+        },
+        {
+            "fileName": "",
+            "imageType": "Sprite",
+            "id": "s_08",
+            "animationId":"anim01",
+            "x": 816,
+            "y": 1416,
+            "width": 408,
+            "height": 336,
+            "basePositionX": 415,
+            "basePositionY": 563,
+            "zIndex": 1
+        },
+        {
+            "fileName": "",
+            "imageType": "Sprite",
+            "id": "s_09",
+            "animationId":"anim01",
+            "x": 1224,
+            "y": 1416,
+            "width": 408,
+            "height": 336,
+            "basePositionX": 415,
+            "basePositionY": 563,
+            "zIndex": 1
+        },
+        {
+            "fileName": "",
+            "imageType": "Sprite",
+            "id": "s_10",
+            "animationId":"anim01",
+            "x": 1632,
+            "y": 1416,
+            "width": 408,
+            "height": 336,
+            "basePositionX": 415,
+            "basePositionY": 563,
+            "zIndex": 1
+        }
+    ],
+    "animations":[
+        {
+            "anim01":[
+                {
+                    "fps":8,
+                    "loop": 1,
+                    "frameIds":[
+                        "s_01","s_02","s_03","s_04","s_05","s_06","s_07","s_08","s_09","s_10"
+                    ]
+                }
+
+            ]
+        }
+    ]
+}
+
