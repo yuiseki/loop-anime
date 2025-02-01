@@ -1,3 +1,41 @@
+# loop-anime
+
+このプロジェクトは、React + TypeScript + Vite を使用して、JSONデータをもとにアニメーション表示を行うWebアプリケーションです。
+JSONで定義されたテクスチャとアニメーション設定に基づいて、HTML5 Canvasにアニメーションを描画します。
+
+## 機能
+- JSONデータに基づくスプライトアニメーション
+- レイヤー機能によるZ-indexの制御
+- FPS、ループ設定などのカスタマイズ可能なアニメーション
+
+## インストールと実行
+
+1. 依存関係をインストール
+```bash
+npm ci
+```
+
+2. 開発サーバーを起動
+```bash
+npm run dev
+```
+
+3. ビルド
+```bash
+npm run build
+```
+
+4. Lintの実行
+```bash
+npm run lint
+```
+
+## 技術スタック
+- React 18.3
+- TypeScript
+- Vite
+- ESLint
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
